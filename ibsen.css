@@ -59,3 +59,8 @@ tr:nth-child(odd){
     color:brown;
     background-color: beige;
 }
+.solness{
+    color:  burlywood;
+    font-family:'Courier New', Courier, monospace;
+    font-size:large;
+}
