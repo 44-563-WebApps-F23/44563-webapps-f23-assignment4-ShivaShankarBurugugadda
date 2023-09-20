@@ -42,3 +42,20 @@
     font-family:'Courier New', Courier, monospace;
     font-size:large;
 }
+table,td,th{
+    padding:10px;
+    margin:2px;
+    border: solid 1px;
+    border-collapse: separate;
+    text-align:center;
+    outline: solid 2px blue;
+}
+
+tr:nth-child(even){
+    color: green;
+    background-color: antiquewhite;
+}
+tr:nth-child(odd){
+    color:brown;
+    background-color: beige;
+}
