@@ -1,0 +1,44 @@
+.speech{
+    color: black;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 14px;
+    text-decoration:solid;
+    text-indent:13px;
+}
+.direction{
+    color:black;
+    font-family:'Courier New', Courier, monospace;
+    font-size:16px;
+    text-decoration:solid;
+    text-decoration-color:aquamarine;
+    text-indent:20px;
+}
+.direction:hover{
+    background-color:lightpink;
+    color:skyblue;
+}
+.brovik{
+    color:blueviolet;
+    font-family:'Courier New', Courier, monospace;
+    font-size:large;
+} 
+.kaia{
+    color: brown;
+    font-family:'Courier New', Courier, monospace;
+    font-size:large;
+}   
+.brovik{
+    color: orange;
+    font-family:'Courier New', Courier, monospace;
+    font-size:large;
+}
+.ragnar{
+    color: blueviolet;
+    font-family:'Courier New', Courier, monospace;
+    font-size:large;
+}
+.direction:hover{
+    color: red;
+    font-family:'Courier New', Courier, monospace;
+    font-size:large;
+}
