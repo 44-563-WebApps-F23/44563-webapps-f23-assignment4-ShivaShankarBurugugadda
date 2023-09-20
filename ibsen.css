@@ -64,3 +64,23 @@ tr:nth-child(odd){
     font-family:'Courier New', Courier, monospace;
     font-size:large;
 }
+.brovik:hover{
+    text-shadow:2px 3px 2px darkgrey;
+    background-color: azure;
+    color:violet;
+}
+.kaia:hover{
+    text-shadow:2px 3px 2px darkgrey;
+    background-color: azure;
+    color:violet;
+}
+.ragnar:hover{
+    text-shadow:2px 3px 2px darkgrey;
+    background-color: azure;
+    color:violet;
+}
+.solness:hover{
+    text-shadow:2px 3px 2px darkgrey;
+    background-color: azure;
+    color:violet;  
+}
